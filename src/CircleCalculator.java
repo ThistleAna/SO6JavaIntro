@@ -1,18 +1,18 @@
 public class CircleCalculator {
     public static void main(String[] args) {
-        // 1. declare variable called width, assign value of 13.5
+        // 1. declare variable called circleRadius, assign value of 12.0
 
-        // 2. declare variable called height, assign value of 25.3
+        // 2. print the circleRadius
+        
+        // 3. Create variable circleDiameter, calculate using 2 * circleRadius
 
-        // 3. Print variables width and height
+        // 4. Print variable circleDiameter, e.g "The circle diameter  is " + circleDiameter
 
-        // 4. Create variable perimeter, calculate using 2* (width+height)
+        // 5. Create variable circleCircumference, calculate using 2 * 3.14 * circleRadius
 
-        // 5. Print variable perimeter, e.g "The rectangle perimeter is " + perimeter
-
-        // 6. Create variable area, calculate using area = width * height
-
-        // 7. Print variable area
+        // 6. Print variable circleCircumference
+        
+        // 7. Create variable circleArea, calculate using  3.14 * circleRadius * circleRadius
 
 
     }
