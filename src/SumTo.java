@@ -14,7 +14,7 @@ public class SumTo {
         // use while loop to display number from 1 to answer
         int counter=1;
         while (counter <= answer) {
-            if (counter != answer) {
+            if (counter != answer) { //if it is the last number to display, remove plus sign
                 System.out.print(counter + " + ");
             } else {
                 System.out.print(counter + "  ");
